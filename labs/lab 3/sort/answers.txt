@@ -1,0 +1,28 @@
+sort1 uses: Bubble Sort.
+
+How do you know?: It's the slowest one, it takes a very small amount of time to sort already sorted numbers compared to random and reversed.
+
+sort2 uses: Merge Sort.
+
+How do you know?: sort2 is the fastest among all of them and it takes almost the same amount of time to sort random, sorted and reversed numbers.
+
+sort3 uses: Selection Sort.
+
+How do you know?: sort3 is the 2nd best at speed and also takes almost the same amount of time to sort random, sorted and reversed numbers.
+
+Time in Seconds for sorting 50000 numbers -
+
+sort1 - Bubble Sort
+sorted - 0.769
+random - 7.849
+reversed - 5.445
+
+sort2 - Merge Sort
+sorted - 0.568
+random - 0.044
+reversed - 0.473
+
+sort3 - Selection Sort
+sorted - 3.209
+random - 3.55
+reversed - 3.339
